@@ -1,0 +1,10 @@
+   
+AI Detection Engineering Lab - Report
+
+Total suspicious activities detected: 18
+
+Suspicious Processes:
+process
+malware_sim.exe    10
+powershell.exe      8
+Name: count, dtype: int64
